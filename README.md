@@ -1,4 +1,4 @@
-# LeetCode---Set-Matrix-Zeros---faster-than-99.59-of-JavaScript-online-submissions-on-LeetvCode
+# LeetCode---Set-Matrix-Zeros---faster-than-99.59-of-JavaScript-online-submissions
 the Algorithm:
 
 
